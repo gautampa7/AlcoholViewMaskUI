@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797868021071",
+    "firebase_url": "https://wearable-32c04-adbd3.firebaseio.com",
+    "project_id": "wearable-32c04-adbd3",
+    "storage_bucket": "wearable-32c04-adbd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797868021071:android:151c37f4642fe833f5613a",
+        "android_client_info": {
+          "package_name": "com.example.alcoholview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797868021071-q1ik2s4vnjidbahactemgflpd03k6qvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alcoholview",
+            "certificate_hash": "c8c68f3808deda87366bb85b71ae5f607ec3c8e4"
+          }
+        },
+        {
+          "client_id": "797868021071-41d00nkh6r80vtu2duugmuvumikirtn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWqPgwegR6-p_OLswBjsmZk-x0mh9q2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797868021071-41d00nkh6r80vtu2duugmuvumikirtn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

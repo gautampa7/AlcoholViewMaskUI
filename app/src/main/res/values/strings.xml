@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlcoholView</string>
+    <string name="button_track">Track</string>
+    <string name="user_name">Enter Name</string>
+    <string name="Emergency_Contact">Enter Emergency Contact No</string>
+    <string name="name_disp">Name</string>
+    <string name="Contact_disp">Emergency Contact No</string>
+    <string name="alcohol_level">Alcohol Level</string>
+    <string name="alcohol_limit">Alcohol Limit</string>
+</resources>
